@@ -1,0 +1,2 @@
+# powershell
+Learn of PowerShell
