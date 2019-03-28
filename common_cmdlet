@@ -1,0 +1,1 @@
+Get-ADPrincipalGroupMembership 'kevin wang' | Select-Object name
